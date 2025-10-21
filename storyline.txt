@@ -1,0 +1,37 @@
+Start Scene:
+We see the outside of the house and when the player presses start, it zooms in and the door opens.
+The character is laying down on the floor and just wakes up in the house.
+
+Gameplay Mechanics:
+- The player stays in the center of the screen and the background moves with the character.
+- Player only has four charges and it can not exceed this amount.
+- Player can find these charges hidden around the map.
+- Drawers have a 20,40,60% of having a jumpscare
+- Walk through doorframe to change rooms
+
+Key Binds:
+- Movement = WASD or Arrows
+- Flashlight = F
+- Pick Up Batteries = E
+- Open Drawers = Hold E
+- Menu = Esc
+
+Player:
+- Character is half the size of furniture and ghosts
+
+Ghosts:
+- Flashlights stun ghosts for 30 seconds
+- 3,4,5 ghosts per room
+- Ghost and furniture are the same siz
+
+Batteries:
+- Glow in the dark when player is in range to pick it up
+
+How to Win:
+- Player has to find a key to unlock the door.
+- Key needs a flashlight flash to be found
+
+Game Modes:
+- Easy: 3 ghosts per room and 20% chance of drawer jumpscare
+- Medium: 4 ghosts per room and 40% chance of drawer jumpscare
+- Hard: 5 ghosts per room and 60% chance of drawer jumpscare
