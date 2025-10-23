@@ -17,12 +17,12 @@ Key Binds:
 - Menu = Esc
 
 Player:
-- Character is half the size of furniture and ghosts
+- Character is half the size of furniture and entities
 
-Ghosts:
-- Flashlights stun ghosts for 30 seconds
-- 3,4,5 ghosts per room
-- Ghost and furniture are the same siz
+Entities:
+- Flashlights stun them for 30 seconds
+- 3,4,5 entities per room based on game mode
+- Same size as the furniture
 
 Batteries:
 - Glow in the dark when player is in range to pick it up
@@ -32,6 +32,6 @@ How to Win:
 - Key needs a flashlight flash to be found
 
 Game Modes:
-- Easy: 3 ghosts per room and 20% chance of drawer jumpscare
-- Medium: 4 ghosts per room and 40% chance of drawer jumpscare
-- Hard: 5 ghosts per room and 60% chance of drawer jumpscare
+- Easy: 3 entities per room and 20% chance of drawer jumpscare
+- Medium: 4 entities per room and 40% chance of drawer jumpscare
+- Hard: 5 entities per room and 60% chance of drawer jumpscare
